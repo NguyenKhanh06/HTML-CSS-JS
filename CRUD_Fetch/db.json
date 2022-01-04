@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Kien thuc moi",
+      "description": "khoa hoc moi cho nguoi moi"
+    },
+    {
+      "id": 2,
+      "name": "Kien thuc moi",
+      "description": "khoa hoc moi cho nguoi moi"
+    }
+  ]
+}
